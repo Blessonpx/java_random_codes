@@ -3,6 +3,6 @@ class swap_numbsers {
     // I dont know why i commited this but ......mehh.....
     int a=10;
     int b=20;
-    intgit 
+    System.out.println("a="+a);
   }
 }
