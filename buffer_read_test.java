@@ -6,10 +6,6 @@ class buffer_read_test {
     System.out.println("Enter a String:");
     String s = br.readLine();
     System.out.println("You entered:" + s);
-    //br.close();
-
-
-    //BufferedReader br1 = new BufferedReader(new InputStreamReader(System.in));
     System.out.println("Enter a Integer:");
     int x = Integer.parseInt(br.readLine());
     System.out.println("You entered:" + x);
